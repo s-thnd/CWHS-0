@@ -1,0 +1,42 @@
+The Koozebanian Phoob has decided to create a flag to represent his home planet of Koozebane. He has settled on a simple diamond shape, with all 4 sides having the same length. However, to create many different versions of the flag, he needs a program to display the flag in all sorts of different sizes! Help the Koozebanian Phoob write a program to do that.
+
+Input Format
+
+The first line of input gives the number of test cases that follow. Each test case consists of a single integer, the length of 1 side of the diamond.
+
+Constraints
+
+The pattern will be at most size 20, and there will be at most 20 test cases.
+
+Output Format
+
+For each test case, output a diamond that has the given side length. Print a blank line after each test case.
+
+Sample Input 0:
+
+3
+3
+5
+2
+
+Sample Output 0:
+
+--*--
+-***-
+*****
+-***-
+--*--
+
+----*----
+---***---
+--*****--
+-*******-
+*********
+-*******-
+--*****--
+---***---
+----*----
+
+-*-
+***
+-*-
