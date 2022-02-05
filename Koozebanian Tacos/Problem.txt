@@ -1,0 +1,31 @@
+The Koozebanian Phoob has gotten tired after all this coding and decided to go out and eat some tacos. However, he is not sure how tax works, and therefore doesn’t know how much all his tacos will cost! Write a program that will tell him how much his tacos cost, before and after tax.
+
+The cost of tacos before tax is just the sum of the prices of each individual taco, and the cost of tacos after tax is 1 + tax rate times the cost of all tacos before tax.
+
+Input Format
+
+The first line of input contains the number of test cases that follow. Each test case starts with an integer N, that represents the number of tacos the Koozebanian Phoob has eaten, and a tax rate, T. On the line that follows, N numbers will be listed, each one representing the cost of a taco he has eaten.
+
+Constraints
+
+There will be less than 100 test cases. There will be <= 100 tacos per test case.
+
+Output Format
+
+For each test case, output the before and after tax cost of the tacos, as shown in the sample output. Round to 2 decimal places, and put a blank line after each test case.
+
+Sample Input 0:
+
+2
+5 .0875
+1.00 2.65 1.50 3.30 1.50
+4 1.0
+5.00 5.00 5.00 5.00
+
+Sample Output 0:
+
+Before Tax: $9.95
+After Tax: $10.82
+
+Before Tax: $20.00
+After Tax: $40.00
