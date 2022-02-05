@@ -1,0 +1,30 @@
+The Spooble is about to get drunked by the Fazoob. Since he knows that his death is imminent, he has decided to list all of his last words in a text file for the generations to come to see. Your task is to print out each of his last words, one per line.
+
+Input Format
+
+The input consists of a comma-separated list of last words, all on one line.
+
+Constraints
+
+There will be at most 200 words.
+
+Output Format
+
+Output each last word on one line. Do not include the commas.
+
+Sample Input 0:
+
+Noooooo,Meesa,About,To,Get,The,Big,Drink,Bye,Byeee
+
+Sample Output 0:
+
+Noooooo
+Meesa
+About
+To
+Get
+The
+Big
+Drink
+Bye
+Byeee
