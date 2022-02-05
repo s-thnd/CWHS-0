@@ -1,0 +1,29 @@
+After a quick break, the Koozebanian Phoob returns to his coding journey! He decides it’s time to mess with his friend's names, switching the first and last letters of each part of their names.
+
+Input Format
+
+Each line of the input corresponds to a person’s name, which can contain multiple words. Names will be in all lowercase.
+
+Constraints
+
+There will be less than 100 names.
+
+Output Format
+
+Output the modified names.
+
+Sample Input 0:
+
+steven cheng
+sammy dilbert armstrong
+anand iyer
+tristan whitespace
+ral
+
+Sample Output 0:
+
+nteves ghenc
+yamms tilberd grmstrona
+dnana ryei
+nristat ehitespacw
+lar
