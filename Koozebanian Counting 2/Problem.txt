@@ -1,0 +1,26 @@
+The Koozebanian Phoob now thinks he’s the master of printing output and has printed the digits in a box! Show him that he’s not the only one who can.
+
+Input Format
+
+There is no input.
+
+Constraints
+
+There are no constraints for this problem.
+
+Output Format
+
+Output the box of digits as shown below.
+
+Sample Output 0:
+
+0123456789
+1234567890
+2345678901
+3456789012
+4567890123
+5678901234
+6789012345
+7890123456
+8901234567
+9012345678
